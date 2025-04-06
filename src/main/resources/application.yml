@@ -1,3 +1,4 @@
 spring:
   application:
     name: httpinterface
+base-url: https://jsonplaceholder.typicode.com
